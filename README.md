@@ -71,16 +71,10 @@ This project showcases a complete data analytics workflow, starting from **web s
 ### **2. Detailed Metrics Visualization**
 ![Metrics Visualization](Pictures%20Saved/Screenshot%202024-11-20%20235129.png)
 
-### **3. Data Transformation Process**
-![Data Transformation](Pictures%20Saved/Screenshot%202024-11-20%20235221.png)
-
-### **4. Performance Comparison**
-![Performance Comparison](Pictures%20Saved/Screenshot%202024-11-20%20235259.png)
-
-### **5. Final Team**
+### **3. Final Team**
 ![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235522.png)
 
-### **6. Power BI Final Dashboard**
+### **4. Power BI Final Dashboard**
 ![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235724.png)
 
 
