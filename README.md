@@ -77,15 +77,17 @@ This project showcases a complete data analytics workflow, starting from **web s
 ### **4. Performance Comparison**
 ![Performance Comparison](Pictures%20Saved/Screenshot%202024-11-20%20235259.png)
 
-### **5. Custom DAX Measures**
-![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235401.png)
+### **5. Final Team**
+![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235522.png)
 
 ### **6. Power BI Final Dashboard**
-![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235444.png)
+![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235724.png)
 
 
-### **2. Player Performance Scatter Plot**
-![Scatter Plot](power_bi/screenshots/scatter-plot.png)
+## **Project Demo (GIF)**
+
+![My Cricket Analysis Dashboard](Pictures%20Saved/MyCricketAnalysisDashboardreduced-ezgif.com-video-to-gif-converter.gif)
+
 
 ---
 
