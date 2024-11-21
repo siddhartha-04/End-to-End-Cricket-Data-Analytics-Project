@@ -60,3 +60,18 @@ This project showcases a complete data analytics workflow, starting from **web s
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/cricket-data-analytics.git
+
+---
+
+## **Screenshots**
+
+### **1. Dashboard Overview**
+![Dashboard Overview]()
+
+### **2. Player Performance Scatter Plot**
+![Scatter Plot](power_bi/screenshots/scatter-plot.png)
+
+---
+
+## **Folder Structure**
+
