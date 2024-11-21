@@ -91,3 +91,45 @@ This project showcases a complete data analytics workflow, starting from **web s
 
 ## **Folder Structure**
 
+cricket-data-analytics/ │ ├── README.md ├── web_scraper/ │ ├── scrape_data.py ├── sql_queries/ │ ├── data_cleaning.sql │ ├── data_transformation.sql ├── power_bi/ │ ├── dashboard.pbix │ └── screenshots/ ├── data/ │ ├── raw_data.csv │ ├── cleaned_data.csv
+
+
+---
+
+## **Future Enhancements**
+- Include bowling performance metrics for a more comprehensive analysis.
+- Use predictive analytics and machine learning to forecast player performance trends.
+- Automate the data refresh process for real-time updates in the dashboard.
+
+---
+
+## **Technologies Used**
+
+| Technology     | Purpose                                     |
+|----------------|---------------------------------------------|
+| **Python**     | Web scraping and data preprocessing.        |
+| **SQL**        | Data cleaning, filtering, and transformations. |
+| **Power BI**   | Creating interactive dashboards and visuals. |
+| **DAX**        | Advanced calculations for dynamic insights. |
+| **Power Query**| Data integration and model transformation.  |
+
+---
+
+## **Acknowledgments**
+- **Python Community**: For the open-source libraries used in web scraping and data analysis.
+- **Power BI Community**: For tutorials and inspiration to create engaging dashboards.
+- Open-source tools and cricket websites for providing the raw data.
+
+---
+
+## **License**
+This project is licensed under the MIT License. Feel free to use and modify it as needed.
+
+---
+
+## **Contact**
+For any queries or suggestions:
+- Email: siddharthaofficial04@gmail.com
+
+
+
