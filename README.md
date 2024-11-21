@@ -66,7 +66,12 @@ This project showcases a complete data analytics workflow, starting from **web s
 ## **Screenshots**
 
 ### **1. Dashboard Overview**
-![Dashboard Overview]()
+![Dashboard Overview](Pictures Saved/Screenshot 2024-11-20 235017.png)
+![Dashboard Overview](Pictures Saved/Screenshot 2024-11-20 235129.png)
+![Dashboard Overview](Pictures Saved/Screenshot 2024-11-20 235221.png)
+![Dashboard Overview](Pictures Saved/Screenshot 2024-11-20 235259.png)
+![Dashboard Overview](Pictures Saved/Screenshot 2024-11-20 235401.png)
+![Dashboard Overview](Pictures Saved/Screenshot 2024-11-20 235444.png)
 
 ### **2. Player Performance Scatter Plot**
 ![Scatter Plot](power_bi/screenshots/scatter-plot.png)
