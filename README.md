@@ -4,6 +4,22 @@
 This project showcases a complete data analytics workflow, starting from **web scraping** cricket data using Python to transforming it with SQL and Pandas, and creating an interactive **Power BI dashboard**. It highlights advanced features like custom DAX measures, dynamic visuals, and actionable insights.
 
 ---
+## **Screenshots**
+
+### **1. Dashboard Overview**
+![Dashboard Overview](Pictures%20Saved/Screenshot%202024-11-20%20235017.png)
+
+### **2. Detailed Metrics Visualization**
+![Metrics Visualization](Pictures%20Saved/Screenshot%202024-11-20%20235129.png)
+
+### **3. Final Team**
+![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235522.png)
+
+### **4. Power BI Final Dashboard**
+![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235724.png)
+
+
+---
 
 ## **Project Workflow**
 
@@ -62,20 +78,6 @@ This project showcases a complete data analytics workflow, starting from **web s
    git clone https://github.com/yourusername/cricket-data-analytics.git
 
 ---
-
-## **Screenshots**
-
-### **1. Dashboard Overview**
-![Dashboard Overview](Pictures%20Saved/Screenshot%202024-11-20%20235017.png)
-
-### **2. Detailed Metrics Visualization**
-![Metrics Visualization](Pictures%20Saved/Screenshot%202024-11-20%20235129.png)
-
-### **3. Final Team**
-![Custom DAX Measures](Pictures%20Saved/Screenshot%202024-11-20%20235522.png)
-
-### **4. Power BI Final Dashboard**
-![Final Dashboard](Pictures%20Saved/Screenshot%202024-11-20%20235724.png)
 
 
 ## **Project Demo (GIF)**
